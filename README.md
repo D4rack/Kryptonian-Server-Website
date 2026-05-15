@@ -58,20 +58,20 @@ Our ranking system rewards active participation, skill development, and positive
 
 ### Ranks & Tiers
 
-| Rank | Title | Requirements | Perks |
-|------|-------|--------------|-------|
-| 1 | **Supreme Emperor** | 2500+ matches + 75% win rate + Legendary contributions | Exclusive access to all channels, custom perks, immortal status |
-| 2 | **High Chancellor** | 2250+ matches + 72% win rate + Major community leadership | Administrative privileges, special badge, priority support |
-| 3 | **Grand Warlord** | 2000+ matches + 70% win rate + Extensive server contributions | Access to VIP lounge, monthly superb rewards, leaderboard hall of fame |
-| 4 | **Council of Krypton** | 1750+ matches + 68% win rate + Proven leadership | Council voting rights, exclusive events, advanced customization |
-| 5 | **Planetary Marshal** | 1500+ matches + 65% win rate + Event organization | Event hosting privileges, premium announcements, elite status |
-| 6 | **Fleet Commander** | 1250+ matches + 62% win rate + Squad leadership | Squad management tools, priority queue access, special badge |
-| 7 | **General of Conquest** | 1000+ matches + 60% win rate + Combat excellence | Custom server perks, monthly special rewards, leaderboard recognition |
-| 8 | **Elite Viltrum Guard** | 800+ matches + 58% win rate | VIP chat channel access, exclusive cosmetics, priority support |
-| 9 | **Kryptonian Commander** | 600+ matches + 55% win rate | Early event registration, custom role color, special perks |
-| 10 | **Battle Captain** | 400+ matches + 52% win rate | Tournament queue access, custom role color variant |
-| 11 | **Imperial Soldier** | 150+ matches + 48% win rate | Intermediate channel access, community recognition |
-| 12 | **Cadet** | Newly joined | Access to basic channels, starter guides |
+| Rank | Title | Perks |
+|------|-------|-------|
+| 1 | **Supreme Emperor** | Exclusive access to all channels, custom perks, immortal status |
+| 2 | **High Chancellor** | Administrative privileges, special badge, priority support |
+| 3 | **Grand Warlord** | Access to VIP lounge, monthly superb rewards, leaderboard hall of fame |
+| 4 | **Council of Krypton** | Council voting rights, exclusive events, advanced customization |
+| 5 | **Planetary Marshal** | Event hosting privileges, premium announcements, elite status |
+| 6 | **Fleet Commander** | Squad management tools, priority queue access, special badge |
+| 7 | **General of Conquest** | Custom server perks, monthly special rewards, leaderboard recognition |
+| 8 | **Elite Viltrum Guard** | VIP chat channel access, exclusive cosmetics, priority support |
+| 9 | **Kryptonian Commander** | Early event registration, custom role color, special perks |
+| 10 | **Battle Captain** | Tournament queue access, custom role color variant |
+| 11 | **Imperial Soldier** | Intermediate channel access, community recognition |
+| 12 | **Cadet** | Access to basic channels, starter guides |
 
 ### Points System
 
