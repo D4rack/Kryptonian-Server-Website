@@ -2,11 +2,11 @@
 
 ## 🎮 Introduction
 
-Welcome to the **Kryptonian Server** – your ultimate destination for epic gaming experiences and unforgettable memories! We're a community-driven server dedicated to bringing players together for thrilling gameplay, spectacular game nights, and exciting events.
+Welcome to the **Kryptonian Server** – your ultimate destination for epic gaming experiences and unforgettable memories! We're a community-driven server dedicated to bringing players together for[...]
 
 ### About Our Server
 
-The Kryptonian Server is built on the foundation of friendship, competition, and pure fun. We believe that gaming is more than just playing – it's about creating bonds with fellow players, celebrating victories together, and pushing our skills to the limit. Whether you're a hardcore competitive player or someone who just wants to relax and have a good time, there's a place for you here.
+The Kryptonian Server is built on the foundation of friendship, competition, and pure fun. We believe that gaming is more than just playing – it's about creating bonds with fellow players, celebr[...]
 
 ### Game Nights & Events
 
@@ -16,7 +16,7 @@ We host regular **Game Nights** where the community comes together for:
 - **Casual Play Sessions** - Just hang out, chat, and enjoy the game
 - **Special Events** - Seasonal events with unique rewards and unforgettable moments
 
-These events are the heartbeat of our community. We plan them regularly to ensure everyone has opportunities to engage, compete, and celebrate together. Keep an eye on announcements for upcoming events!
+These events are the heartbeat of our community. We plan them regularly to ensure everyone has opportunities to engage, compete, and celebrate together. Keep an eye on announcements for upcoming e[...]
 
 ---
 
@@ -60,13 +60,18 @@ Our ranking system rewards active participation, skill development, and positive
 
 | Rank | Title | Requirements | Perks |
 |------|-------|--------------|-------|
-| 1 | **Recruit** | Newly joined | Access to basic channels |
-| 2 | **Novice** | 10 matches played | Access to tournament queue |
-| 3 | **Adept** | 50 matches + 45% win rate | Custom role color |
-| 4 | **Warrior** | 100 matches + 50% win rate | Early event registration |
-| 5 | **Champion** | 250 matches + 55% win rate | VIP chat channel access |
-| 6 | **Legend** | 500 matches + 60% win rate | Monthly special rewards |
-| 7 | **Mythic** | 1000 matches + 65% win rate | Custom server perks |
+| 1 | **Supreme Emperor** | 2500+ matches + 75% win rate + Legendary contributions | Exclusive access to all channels, custom perks, immortal status |
+| 2 | **High Chancellor** | 2250+ matches + 72% win rate + Major community leadership | Administrative privileges, special badge, priority support |
+| 3 | **Grand Warlord** | 2000+ matches + 70% win rate + Extensive server contributions | Access to VIP lounge, monthly superb rewards, leaderboard hall of fame |
+| 4 | **Council of Krypton** | 1750+ matches + 68% win rate + Proven leadership | Council voting rights, exclusive events, advanced customization |
+| 5 | **Planetary Marshal** | 1500+ matches + 65% win rate + Event organization | Event hosting privileges, premium announcements, elite status |
+| 6 | **Fleet Commander** | 1250+ matches + 62% win rate + Squad leadership | Squad management tools, priority queue access, special badge |
+| 7 | **General of Conquest** | 1000+ matches + 60% win rate + Combat excellence | Custom server perks, monthly special rewards, leaderboard recognition |
+| 8 | **Elite Viltrum Guard** | 800+ matches + 58% win rate | VIP chat channel access, exclusive cosmetics, priority support |
+| 9 | **Kryptonian Commander** | 600+ matches + 55% win rate | Early event registration, custom role color, special perks |
+| 10 | **Battle Captain** | 400+ matches + 52% win rate | Tournament queue access, custom role color variant |
+| 11 | **Imperial Soldier** | 150+ matches + 48% win rate | Intermediate channel access, community recognition |
+| 12 | **Cadet** | Newly joined | Access to basic channels, starter guides |
 
 ### Points System
 
